@@ -1,3 +1,9 @@
+-- ==============
+-- VERSION UPDATE
+-- ==============
+UPDATE db_version SET version = 'TBC-DB 1.4.3 - 006 \'PRE-RELEASE BETA BUILD\' for CMaNGOS-TBC';
+
+
 -- ===========================================================
 -- Remove Random Spawned Silverwind Emissary in Stormwind City - NPC Waypoint Spawns (Will Add Waypoint Movement Later)
 -- ===========================================================
